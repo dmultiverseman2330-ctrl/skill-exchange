@@ -1,0 +1,6 @@
+{
+  "name": "SkillLoop - Local Skill Exchange",
+  "description": "Hyperlocal skill exchange platform connecting neighbors to trade knowledge, crafts, and lessons without money. Features instant demo mobile login, barter matching, and exchange management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
